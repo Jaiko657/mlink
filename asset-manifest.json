@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mlink/static/css/main.831c8cbd.css",
-    "main.js": "/mlink/static/js/main.c65f6fc9.js",
+    "main.css": "/mlink/static/css/main.6978d2a9.css",
+    "main.js": "/mlink/static/js/main.d703196c.js",
     "static/js/787.e226f932.chunk.js": "/mlink/static/js/787.e226f932.chunk.js",
     "static/media/yellowpurple.webp": "/mlink/static/media/yellowpurple.cc63dca000deacacf781.webp",
     "static/media/redgrey.webp": "/mlink/static/media/redgrey.8df486ad4d6a29e1d845.webp",
@@ -12,12 +12,12 @@
     "static/media/NI_Railways_icon.svg": "/mlink/static/media/NI_Railways_icon.5095717ed683d37320061a494f76c817.svg",
     "static/media/bus.svg": "/mlink/static/media/bus.dca3d2634670cb0a87b7296140b49550.svg",
     "index.html": "/mlink/index.html",
-    "main.831c8cbd.css.map": "/mlink/static/css/main.831c8cbd.css.map",
-    "main.c65f6fc9.js.map": "/mlink/static/js/main.c65f6fc9.js.map",
+    "main.6978d2a9.css.map": "/mlink/static/css/main.6978d2a9.css.map",
+    "main.d703196c.js.map": "/mlink/static/js/main.d703196c.js.map",
     "787.e226f932.chunk.js.map": "/mlink/static/js/787.e226f932.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.831c8cbd.css",
-    "static/js/main.c65f6fc9.js"
+    "static/css/main.6978d2a9.css",
+    "static/js/main.d703196c.js"
   ]
 }
